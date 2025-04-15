@@ -49,14 +49,6 @@ dotnet ef database update
 dotnet run
 ```
 
----
-
-## ✨ Captura de pantalla (opcional)
-
-> Agrega aquí una imagen de la interfaz si quieres mejorar la presentación visual.
-
----
-
 ## 👤 Autor
 
 Desarrollado por [Cristian Stiven Ramírez Giraldo](https://www.linkedin.com/in/cristianstivenramirezgiraldo/)
